@@ -4,8 +4,8 @@
 |Name   |  LinkedIn | Role|
 |-------|-----------|-----|
 |  ims0s| [LinkedIn](https://www.linkedin.com/in/mahmoud-sorour/)  | PHP Native|
-|Polotacki|[LinkedIn](https://www.linkedin.com/in/abdelrhman-nasser-75347b177/)| MY SQL Database|
-|Hamza Ridfan|[LinkedIn](https://www.linkedin.com/in/hamza-ridfan-5805341b3/)|HTML CSS|
+|Polotacki|[LinkedIn](https://www.linkedin.com/in/abdelrhman-nasser-75347b177/)| HTML CSS |
+|Hamza Ridfan|[LinkedIn](https://www.linkedin.com/in/hamza-ridfan-5805341b3/)|MY SQL Database|
 
 ## About
 A basic E-commerce website for sport supplements  
